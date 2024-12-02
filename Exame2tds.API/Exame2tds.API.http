@@ -1,0 +1,6 @@
+@Exame2tds.API_HostAddress = http://localhost:5087
+
+GET {{Exame2tds.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
